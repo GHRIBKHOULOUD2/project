@@ -1,0 +1,38 @@
+{
+  "hosts": {
+    "192.168.1.20": {
+      "status": "offline",
+      "last_seen": "2026-05-22 00:31:38"
+    },
+    "192.168.1.11": {
+      "status": "offline",
+      "last_seen": "2026-05-22 00:23:36"
+    }
+  },
+  "blocked": [],
+  "switches": {
+    "99895492425540": "online",
+    "996436013800": "online"
+  },
+  "alerts": [],
+  "camera": {
+    "data": null,
+    "timestamp": null,
+    "ip": null
+  },
+  "sensor_data": {},
+  "mqtt_data": {
+    "env": {},
+    "rfid": {},
+    "leds": {
+      "led_temp": "OFF",
+      "led_hum": "OFF"
+    },
+    "access_log": [],
+    "last_rfid_uid": "",
+    "last_rfid_status": ""
+  },
+  "vlan_policy": {},
+  "host_policy": {},
+  "last_updated": "2026-05-22 00:43:58"
+}
